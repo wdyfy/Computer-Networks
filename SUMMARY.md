@@ -1,5 +1,6 @@
-# Table of contents
+# Computer Networks Contents
 
-* [Computer Networks](README.md)
-* [Chapter 1](chapter-1.md)
+* [Computer Networks Contents](README.md)
+** [Chapter 1 Computer Networks and the Internet](chapter-1.md)
+** [Chapter 2 Application Layer](chapter-2.md)
 
