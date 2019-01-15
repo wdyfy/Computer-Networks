@@ -1,8 +1,8 @@
 # Computer Networks
 
-### :cloud: Contents 
+### :memo: Contents 
 
-- [Chapter 1](https://github.com/wdyfy/Computer-Networks/blob/master/chapter-1.md)
+- [Chapter 1 Computer Networks and the Internet](https://github.com/wdyfy/Computer-Networks/blob/master/chapter-1.md)
 
 
 
