@@ -7,7 +7,7 @@
 
 ### A Nuts-and-Bolts Description
 
-The Internet is a computer network that interconnects hundreds of millions of computing devices throughout the word.
+       The Internet is a computer network that interconnects hundreds of millions of computing devices throughout the word.
 
 **Host :** A computer connected to the Internet or another IP-based network.
 
@@ -17,9 +17,9 @@ The Internet is a computer network that interconnects hundreds of millions of co
 
 ### A Services Description
 
-The Internet is an infrastructure that provides services to applications.
+       The Internet is an infrastructure that provides services to applications.
 
-End systems attached to the Internet provide an **Application Programming Interface \(API\)** that specifies how a program running on one end system asks the Internet infrastructure to deliver data to a specific destination program running on another end system.
+       End systems attached to the Internet provide an **Application Programming Interface \(API\)** that specifies how a program running on one end system asks the Internet infrastructure to deliver data to a specific destination program running on another end system.
 
 
 
