@@ -19,7 +19,7 @@ The Internet is a computer network that interconnects hundreds of millions of co
 
 The Internet is an infrastructure that provides services to applications.
 
-End systems attached to the Internet provide an **Application Programming Interface \(API\)** that specifies how a program running on one end system asks the Internet infrastructure to deliver data to a specific destination program running 
+End systems attached to the Internet provide an **Application Programming Interface \(API\)** that specifies how a program running on one end system asks the Internet infrastructure to deliver data to a specific destination program running on another end system.
 
 
 
