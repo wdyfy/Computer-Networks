@@ -7,7 +7,7 @@
 
 ### A Nuts-and-Bolts Description
 
-       The Internet is a computer network that interconnects hundreds of millions of computing devices throughout the word.
+The Internet is a computer network that interconnects hundreds of millions of computing devices throughout the word.
 
 **Host :** A computer connected to the Internet or another IP-based network.
 
@@ -17,15 +17,21 @@
 
 ### A Services Description
 
-       The Internet is an infrastructure that provides services to applications.
+The Internet is an infrastructure that provides services to applications.
 
-       End systems attached to the Internet provide an **Application Programming Interface \(API\)** that specifies how a program running on one end system asks the Internet infrastructure to deliver data to a specific destination program running on another end system.
+End systems attached to the Internet provide an **Application Programming Interface \(API\)** that specifies how a program running on one end system asks the Internet infrastructure to deliver data to a specific destination program running on another end system.
+
+### Protocol
+
+A Protocol defines the format and the order of messages exchanged between two or more communicating entities, as well as the actions taken on the transmission and/or receipt of a message or other event.
 
 ## The Network Core
 
 **Packet Switching :** Most packet switches use store-and-forward transmission at he inputs to the links. It means that the packet switch must receive the entire packet before it can begin to transmit the first bit of the packet onto the outbound link.
 
 **Circuit Switching :** In circuit-switched networks, the resources needed along a path \(buffers, link transmission rate\) to provide for communication between the end systems are reserved for the duration of the communication session between the end system.
+
+
 
 
 
