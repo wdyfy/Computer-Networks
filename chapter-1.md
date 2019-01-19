@@ -21,5 +21,11 @@
 
        End systems attached to the Internet provide an **Application Programming Interface \(API\)** that specifies how a program running on one end system asks the Internet infrastructure to deliver data to a specific destination program running on another end system.
 
+## The Network Core
+
+**Packet Switching :** Most packet switches use store-and-forward transmission at he inputs to the links. It means that the packet switch must receive the entire packet before it can begin to transmit the first bit of the packet onto the outbound link.
+
+**Circuit Switching :** In circuit-switched networks, the resources needed along a path \(buffers, link transmission rate\) to provide for communication between the end systems are reserved for the duration of the communication session between the end system.
+
 
 
