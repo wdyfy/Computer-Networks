@@ -31,8 +31,6 @@ A Protocol defines the format and the order of messages exchanged between two or
 
 **Circuit Switching :** In circuit-switched networks, the resources needed along a path \(buffers, link transmission rate\) to provide for communication between the end systems are reserved for the duration of the communication session between the end system.
 
-Packet switching is not suitable for real-time services, but there are two advantages: \(1\)--it offers better sharing of transmission capacity than circuit switching; \(2\) it is simpler, more efficient, and less costly to implement than circuit switching.
-
 ## 1.3 Delay, Loss, and Throughput in Packet-Switched Networks
 
 A packet  travels from one node to the subsequent node along a path suffers from several types of delays at each node along the path. The most important of these delays are the **nodal processing delay**, **queuing delay**, **transmission delay**, and **propagation delay**.
@@ -63,5 +61,21 @@ A packet  travels from one node to the subsequent node along a path suffers from
 
 In reality a queue preceding a link has finite capacity. Therefore, with on place to store such a packet, a router will drop that packet; that is, the packet will be lost.
 
+## 1.4 Protocol Layers and Their Service Models
 
+Packet switching is not suitable for real-time services, but there are two advantages: \(1\)--it offers better sharing of transmission capacity than circuit switching; \(2\) it is simpler, more efficient, and less costly to implement than circuit switching.
+
+| The Internet protocol stack |  |
+| :--- | :--- |
+| Application Layer  |  |
+| Transport Layer |  |
+| Network Layer |  |
+| Link Layer |  |
+| Physical Layer |  |
+
+The table above is the internet protocol stack. We take a top-down approach, first covering the application layer and then proceeding downward.
+
+#### Application Layer
+
+The application layer is where network applications and their application-layer protocols reside. The Internet's application layer includes many protocols, such as the HTTP protocol \(which provides for Web document request and transfer\), SMTP \(which provides for the transfer of e-mail messages\), and FTP \(which provides for the transfer of files between two end systems\).
 
