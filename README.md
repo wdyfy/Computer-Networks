@@ -7,6 +7,6 @@
 * [Chapter 3 Transport Layer](https://github.com/wdyfy/Computer-Networks/blob/master/chapter-3-transport-layer.md)
 
 
-## :sun: Reference
+## :pen: Reference
 The notes refer Computer Networking A Top-Down Approach, 6 edition, Kuros, Ross.
 
